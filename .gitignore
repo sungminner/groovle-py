@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+audio/
+
+*.wav
+*.mp3
+*.m4a
